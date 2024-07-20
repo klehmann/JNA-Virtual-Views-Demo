@@ -1,0 +1,15 @@
+table.dominoview-container tr[data-indentlevels="1"] td[data-itemname="@categoryname"] {
+	padding-left:20px;
+}
+table.dominoview-container tr[data-indentlevels="2"] td[data-itemname="@categoryname"] {
+	padding-left:40px;
+}
+table.dominoview-container tr[data-indentlevels="3"] td[data-itemname="@categoryname"] {
+	padding-left:60px;
+}
+table.dominoview-container tr[data-indentlevels="4"] td[data-itemname="@categoryname"] {
+	padding-left:80px;
+}
+table.dominoview-container tr[data-iscategory="true"] {
+	background-color: #f0f0f0;
+}

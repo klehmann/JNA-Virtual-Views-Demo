@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" rendered="false" viewState="nostate"> 
+
+        <xp:this.beforeRenderResponse>><![CDATA[#{javascript:try { 
+        var exCon = facesContext.getExternalContext(); 
+        var request = exCon.getRequest(); 
+        var response = exCon.getResponse();
+        
+        var handler = new com.mindoo.virtualviews.VirtualViewDataHandler();
+        handler.service(session, database, sessionAsSigner, request, response);
+        facesContext.responseComplete(); 
+} 
+catch (e) { 
+        _dump(e); 
+}}]]></xp:this.beforeRenderResponse></xp:view> 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="form" replicaid="C1258B5D002E7778" version="14.0">
+<noteinfo noteid="1b2" sequence="169" unid="F6CD304D18F893A3C1258B5D0031B7F8">
+<created><datetime dst="true">20240717T110303,60+02</datetime></created>
+<modified><datetime dst="true">20240720T225236,07+02</datetime></modified>
+<revised><datetime dst="true">20240720T225236,06+02</datetime></revised>
+<lastaccessed><datetime dst="true">20240720T225236,06+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20240718T164545,46+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karsten Lehmann/O=Mindoo</name></updatedby>
+<wassignedby><name>CN=Karsten Lehmann/O=Mindoo</name></wassignedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>com/mindoo/virtualviews/VirtualViewDataHandler.java</text></item>
+
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>com/mindoo/virtualviews/VirtualViewDataHandler.java</text></item>
+
+
+
+</note>

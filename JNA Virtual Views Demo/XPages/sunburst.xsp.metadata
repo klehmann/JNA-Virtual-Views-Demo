@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="form" replicaid="C1258B5D002E7778" version="14.0">
+<noteinfo noteid="1aa" sequence="190" unid="830C99969176E941C1258B5D003DE12F">
+<created><datetime dst="true">20240717T131553,43+02</datetime></created>
+<modified><datetime dst="true">20240719T230559,80+02</datetime></modified>
+<revised><datetime dst="true">20240719T230559,79+02</datetime></revised>
+<lastaccessed><datetime dst="true">20240719T230559,79+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20240718T164545,44+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karsten Lehmann/O=Mindoo</name></updatedby>
+<wassignedby><name>CN=Karsten Lehmann/O=Mindoo</name></wassignedby>
+<item name="$Flags"><text>gC~4K</text></item>
+<item name="$TITLE"><text>sunburst.xsp</text></item>
+
+
+
+<item name="$DesignerVersion"><text>8.5.2</text></item>
+
+
+<item name="$FileNames" sign="true"><text>sunburst.xsp</text></item>
+
+</note>
